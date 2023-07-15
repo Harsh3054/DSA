@@ -13,4 +13,5 @@ class Solution {
         }
         return 0;
     }
+    //time  and space complexity=O(n)
 }
