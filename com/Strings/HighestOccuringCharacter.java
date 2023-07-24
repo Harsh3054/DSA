@@ -15,6 +15,8 @@ public class HighestOccuringCharacter {
                 ch=str.charAt(j);
             }
         }
+//        input=aaabbccdsa
+//        output=a3b2c2dsa
         return ch;
     }
 }
