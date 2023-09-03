@@ -6,7 +6,7 @@ public class LinkedListUse {
 
     public static void main(String[] args) {
         Node<Integer> input=takeInput();
-        Node<Integer> ans=removeDuplicates.removeDuplicates2(input);
+        Node<Integer> ans=SwapTwoNodes.swapNodes(input,3,4);
         print(ans);
 
         
