@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
 //        String[] strs={"flower","flow","flight"};
 //        System.out.println(LongestCommonPrefix.longestCommonPrefix(strs));
-        System.out.println(CountWithKDiff.countSubStrings("aacfssa",3));
+        System.out.println(LongestPalindromeSubstring.longestPalindrome("cbbd"));
     }
 
 
